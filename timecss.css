@@ -1,0 +1,29 @@
+body{
+    background-color:#e1695f;
+    margin:0;
+    padding:0;
+}
+.trang {
+   
+    text-align:center;
+}
+.position {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:5%;
+    
+}
+.position:hover{
+    opacity:0.25;
+}
+.positionp{
+    display:inline;
+}
+.fromtime{
+    margin:5%;
+    text-align:center;
+}
+.timechose,.timechose2,.timerchose3 {
+    margin: 5% 0  5% 0 ;
+}
