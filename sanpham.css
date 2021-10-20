@@ -1,0 +1,29 @@
+/* dinh dang font-style va kich thuoc cua  chu duoc hien thi */
+body {
+    font-family: Arial, sans-serif;
+    font-size:14px;
+    background-color: #F3F3F3;
+
+}
+/*dinh dang mau chu va nen , va kich thuoc chu */
+.color-dm{
+    color:black;
+}
+
+
+
+
+
+/*phan card header sp */
+.header-sp{
+    font-size:9px;
+}
+
+
+.price{
+    font-size:16px;
+}
+
+.img-hd{
+    height:20px;
+}
